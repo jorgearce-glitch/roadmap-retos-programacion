@@ -1,0 +1,12 @@
+# https://python.org
+"Mi_primer_comentario_ever_made"
+
+"""
+ESTE TAMBIEN
+ES MI PRIMER 
+COMENTARIO EVER MADE
+"""
+
+MY_VARIABLE = "MAS PERDIDO QUE EL HIJO DEL"
+
+MY_CONSTANT = "A DODNDE FUERES HACER LO QUE VIERES"
